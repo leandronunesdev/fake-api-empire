@@ -1,0 +1,148 @@
+{
+  "users": [
+    {
+      "email": "helen@facebook.com",
+      "password": "$2a$10$ppRSDaS6sUr2g1bOhN8sZu/2fV97T7tbL1IKtTh2iZRdTbsB0m4HO",
+      "name": "Helen",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "email": "mauricio@google.com",
+      "password": "$2a$10$SCeCDXxD40jojmihyOfwJujk2MhC2a7HIeGFI8mEqOrlSbdYgCUKO",
+      "name": "Maricio",
+      "role": "editor",
+      "id": 2
+    },
+    {
+      "email": "leandro@gmail.com",
+      "password": "$2a$10$TzX.t2EiE0Yrd8emfm5.EOfoJnA/v.TjmQZL5KUQm95qAFo4oXMyG",
+      "name": "Leandro Nunes",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "email": "rubens@gmail.com",
+      "password": "$2a$10$9RxGGjR//s.hmX6OpP.wye2EN3EVlfH6q3sHN/1lx1LHjBRG9G2mm",
+      "name": "Rubens Macedo",
+      "role": "admin",
+      "id": 4
+    },
+    {
+      "email": "flavio@gmail.com",
+      "password": "$2a$10$BXrMd7h9J.6U6yNvj9HtTuPYVE8u/xfvBcls5QEBPgoUIuxNqmlP2",
+      "name": "Flavio",
+      "role": "editor",
+      "id": 5
+    }
+  ],
+  "register": [],
+  "categories": [
+    "Beers",
+    "Brands",
+    "Acessories",
+    "Liquors",
+    "Kits",
+    "New Products"
+  ],
+  "beers": [
+    {
+      "title": "Beer Pack Michelob Ultra Light Lager 355ml (6 units)",
+      "price": "29.94",
+      "description": "Michelob Ultra",
+      "image": "https://emporiodacerveja.vtexassets.com/arquivos/ids/179041-1200-auto?width=1200&height=auto&aspect=true",
+      "id": 1
+    },
+    {
+      "title": "Hoegaarden Wit Beer 330ml",
+      "price": "6.39",
+      "description": "Hoegaarden",
+      "image": "https://emporiodacerveja.vtexassets.com/arquivos/ids/169192-1200-auto?width=1200&height=auto&aspect=true",
+      "id": 2
+    },
+    {
+      "title": "Patagonia Amber Lager Beer 473ml",
+      "price": "7.99",
+      "description": "Patagonia",
+      "image": "https://emporiodacerveja.vtexassets.com/arquivos/ids/175507-1200-auto?width=1200&height=auto&aspect=true",
+      "id": 3
+    },
+    {
+      "title": "Paulistania Marco Zero Beer 350ml",
+      "price": "5.34",
+      "description": "Paulistania",
+      "image": "https://emporiodacerveja.vtexassets.com/arquivos/ids/178530-1200-auto?width=1200&height=auto&aspect=true",
+      "id": 4
+    },
+    {
+      "title": "Erdinger Traditional Weiss Beer 500ml",
+      "price": 16.9,
+      "description": "Erdinger",
+      "image": "https://emporiodacerveja.vtexassets.com/arquivos/ids/175042-1200-auto?width=1200&height=auto&aspect=true",
+      "id": 6
+    },
+    {
+      "title": "Brooklyn Lager Beer Can 350ml",
+      "price": "10.43",
+      "description": "Brooklyn",
+      "image": "https://emporiodacerveja.vtexassets.com/arquivos/ids/175368-176-176?v=637114958492530000&width=176&height=176&aspect=true",
+      "id": 7
+    },
+    {
+      "title": "Czechvar Lager Beer 500ml",
+      "price": "14.34",
+      "description": "Czechvar",
+      "image": "https://emporiodacerveja.vtexassets.com/arquivos/ids/179406-176-176?v=637557296572230000&width=176&height=176&aspect=true",
+      "id": 8
+    },
+    {
+      "title": "Cusqueña Golden Lager Beer 330ml",
+      "price": "5.14",
+      "description": "Cusqueña",
+      "image": "https://emporiodacerveja.vtexassets.com/arquivos/ids/178889-176-176?v=637457284176730000&width=176&height=176&aspect=true",
+      "id": 10
+    },
+    {
+      "title": "Flamingo Lager Beer 355ml",
+      "price": "7.42",
+      "description": "Flamingo",
+      "image": "https://emporiodacerveja.vtexassets.com/arquivos/ids/182368-176-176?v=637904955929600000&width=176&height=176&aspect=true",
+      "id": 11
+    },
+    {
+      "title": "Leffe Blonde Beer 330ml",
+      "price": "11.99",
+      "description": "Leffe Blonde",
+      "image": "https://emporiodacerveja.vtexassets.com/arquivos/ids/158874-176-176?v=635942643290870000&width=176&height=176&aspect=true",
+      "id": 12
+    },
+    {
+      "title": "Goose Island IPA Beer 355ml",
+      "price": "9.99",
+      "description": "Goose Island",
+      "image": "https://emporiodacerveja.vtexassets.com/arquivos/ids/180575-176-176?v=637690606352070000&width=176&height=176&aspect=true",
+      "id": 13
+    },
+    {
+      "title": "Goose Island Midway Beer",
+      "price": "8.99",
+      "description": "Goose Island Midway",
+      "image": "https://emporiodacerveja.vtexassets.com/arquivos/ids/180383-176-176?v=637660304443100000&width=176&height=176&aspect=true",
+      "id": 14
+    },
+    {
+      "title": "Hoegarden Wit 330ml Beer Pack (24 units)",
+      "price": "182.17",
+      "description": "Hoegarden Wit",
+      "image": "https://emporiodacerveja.vtexassets.com/arquivos/ids/175504-176-176?v=637143936022500000&width=176&height=176&aspect=true",
+      "id": 15
+    },
+    {
+      "title": "Colorado Vixnu Beer 600ml",
+      "price": "9.74",
+      "description": "Colorado Vixnu",
+      "image": "https://emporiodacerveja.vtexassets.com/arquivos/ids/169392-176-176?v=636542272598900000&width=176&height=176&aspect=true",
+      "id": 16
+    }
+  ]
+}
